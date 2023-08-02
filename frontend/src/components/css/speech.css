@@ -1,0 +1,13 @@
+.speech{
+    cursor: pointer;
+    border: 0px solid #ccc;
+    border-radius: 50%;
+    color: grey;
+    /* font-size: large; */
+    
+}
+.speech:hover{
+    /* font-size: larger; */
+    font-weight: bolder;
+    color: blue;
+}
